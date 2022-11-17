@@ -1,0 +1,17 @@
+#contact{
+    height: 80vh;
+    background-image: url("E:\web-development\Ecomm\kart-store\public\images\bg2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#form{
+    width: 60vw;
+    padding: 10px 0;
+height: auto;
+}
